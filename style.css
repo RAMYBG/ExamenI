@@ -4,129 +4,113 @@
     top: 57px;
     position: relative;
     float: left;
-    left: 150px;
+    left: 191px;
     margin-left: 22%;
     background-color: red;
 }
 #container1{
     height: 135px;
     width: 347px;
-    top: 57px;
+    top: 223px;
     position: relative;
     float: left;
-    left: 150px;
+    left: -620px;
     margin-left: 22%;
-    background-color: red;
+    background-color: blue;
 }
 #container2{
     height: 135px;
     width: 347px;
-    top: 57px;
+    top: 89px;
     position: relative;
     float: left;
-    left: 150px;
+    left: 383px;
     margin-left: 22%;
-    background-color: red;
+    background-color: blueviolet;
 }
 #container3{
     height: 135px;
     width: 347px;
-    top: 57px;
+    top: 248px;
     position: relative;
     float: left;
-    left: 150px;
+    left: -795px;
     margin-left: 22%;
-    background-color: red;
+    background-color: yellow;
 }
 #container4{
     height: 135px;
     width: 347px;
-    top: 57px;
+    top: 113px;
     position: relative;
     float: left;
-    left: 150px;
+    left: 206px;
     margin-left: 22%;
-    background-color: red;
+    background-color: white;
 }
 #container5{
     height: 135px;
     width: 347px;
-    top: 57px;
+    top: 113px;
     position: relative;
     float: left;
-    left: 150px;
+    left: -72px;
     margin-left: 22%;
-    background-color: red;
+    background-color: rgb(190, 8, 214);
 }
 #container6{
     height: 135px;
-    width: 347px;
-    top: 57px;
+    width: 300px;
+    top: 139px;
     position: relative;
     float: left;
-    left: 150px;
+    left: -286px;
     margin-left: 22%;
-    background-color: red;
+    background-color: rgb(150, 247, 40);
+    
 }
 #container7{
     height: 135px;
-    width: 347px;
-    top: 57px;
+    width: 300px;
+    top: 138px;
     position: relative;
     float: left;
-    left: 150px;
+    left: -544px;
     margin-left: 22%;
-    background-color: red;
+    background-color: rgb(18, 200, 224);
+    
 }
 #container8{
     height: 135px;
-    width: 347px;
-    top: 57px;
+    width: 300px;
+    top: 4px;
     position: relative;
     float: left;
-    left: 150px;
+    left: 388px;
     margin-left: 22%;
-    background-color: red;
+    background-color: rgb(255, 166, 0);
+    
 }
 #container9{
     height: 135px;
-    width: 347px;
-    top: 57px;
+    width: 300px;
+    top: 4px;
     position: relative;
     float: left;
-    left: 150px;
+    left: 131px;
     margin-left: 22%;
-    background-color: red;
+    background-color: rgb(228, 24, 160);
+    
 }
-#container10{
-    height: 135px;
-    width: 347px;
-    top: 57px;
-    position: relative;
-    float: left;
-    left: 150px;
-    margin-left: 22%;
-    background-color: red;
-}
-#circulo{
+
+.circulo{
     background-color: black;
     border-radius: 170px;
     height: 110px;
     width: 112px;
-    top: 68px;
+    top: 12px;
     position: relative;
     float: left;
-    left: -217px;
+    left: -11px;
     margin-left: 22px;
 }
-  #circulo1{
-    background-color: black;
-    border-radius: 170px;
-    height: 110px;
-    width: 112px;
-    top: 107px;
-    position: relative;
-    float: left;
-    left: -340px;
-    margin-left: 22px;
-  }
